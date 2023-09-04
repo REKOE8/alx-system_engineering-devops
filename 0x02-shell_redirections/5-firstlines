@@ -1,0 +1,2 @@
+#!/ban/bash
+head /etc/passwd
